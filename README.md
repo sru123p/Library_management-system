@@ -1,2 +1,2 @@
-# CS-257
-course project
+# Library Management System
+Web development project
